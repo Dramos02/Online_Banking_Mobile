@@ -15,5 +15,5 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Android device. Banking has never been this intuitive and accessible.
 <div align="center">
-  <em>Developed by KURTICDYNAMICS : Kurt Colonia, Dominic Ramos2024-2025</em>
+  <em>Developed by KURTICDYNAMICS : Kurt Colonia, Dominic Ramos 2024-2025</em>
 </div>
