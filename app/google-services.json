@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593202772493",
+    "project_id": "kurtic-onlinebanking",
+    "storage_bucket": "kurtic-onlinebanking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593202772493:android:892cc2b94394a470393344",
+        "android_client_info": {
+          "package_name": "com.example.kurticonlinebanking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYkDJYMNz-FYNTK-E_pCDn_Q7NaatvBKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

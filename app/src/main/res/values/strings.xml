@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">KurticOnlineBanking</string>
+
+    <string name="loginTitle">Login to an\nExisting Account</string>
+
+    <string name="emailTitle">E-mail Address</string>
+    <string name="emailHint">juan.delacruz@email.com</string>
+
+    <string name="passwordTitle">Password</string>
+
+    <string name="rememberText">Remember this account when logging in.</string>
+
+    <string name="loginBtn">Login</string>
+    <string name="registerBtn">Register</string>
+
+    <string name="loginRedirect">Login Here</string>
+    <string name="registerRedirect">Register Here</string>
 </resources>
